@@ -1,6 +1,6 @@
 # GastoFácil (Next.js)
 
-Sistema web de control de gastos personales para estudiantes, construido con Next.js 15 a partir de la SRS (ISO/IEC/IEEE 29148) v2.0.
+Este es un proyecto para la materia de ingeniería de software 2026B. Sistema web de control de gastos personales para estudiantes, construido con Next.js 15 a partir de la SRS (ISO/IEC/IEEE 29148) v2.0.
 
 ## Requisitos
 
